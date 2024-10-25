@@ -42,3 +42,13 @@ GROUP BY customerID
 ORDER BY total_purchase DESC
 LIMIT 5;
 ```
+### Percentage of total sales contributed by each region:
+```
+SELECT region, 
+       SUM(quantity * unitprice) / (SELECT SUM(quantity * unitprice) FROM salesdata) * 100 AS percentage_sales
+FROM salesdata
+GROUP BY region;
+```
+
+
+
