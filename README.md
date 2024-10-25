@@ -49,6 +49,16 @@ SELECT region,
 FROM salesdata
 GROUP BY region;
 ```
+### Products with no sales in the last quarter
+```
+SELECT product
+FROM salesdata
+GROUP BY product
+HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 ELSE 0 END) = 0;
+
+```
+
+
 
 
 
