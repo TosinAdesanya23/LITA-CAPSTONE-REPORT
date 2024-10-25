@@ -34,11 +34,11 @@ SQL- (structured query language) for data querrying
 Github- for porfolio Building
 
 
-### SKILLS
-1.Data Analysis 
-2.Data Visualization 
-3.Data Cleaning
-4.Data EXPLORATION
+### SKILLS 
+1. Data Cleaning
+2. Data EXPLORATION
+3. Data Analysis
+4. Data Visualisation
 
 ### DATA CLEANING AND PREPARATION
 On the initial phase of Data cleaning and preparations, I performed the following action;
