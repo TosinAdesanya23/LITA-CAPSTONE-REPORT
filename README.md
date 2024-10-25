@@ -25,3 +25,10 @@ ORDER BY total_sales DESC
 LIMIT 1;
 ```
 THE ANSWER IS SHOES!!
+
+### Total Revenue per product
+```
+SELECT product, SUM(quantity * unitprice) AS total_revenue
+FROM salesdata
+GROUP BY product;
+```
