@@ -47,12 +47,11 @@ Handling missing variables
 Data cleaning and formatting
 
 ### EXPLORATORY DATA ANALYSIS
-EDA involved the exploration of the data to answer some questions about the Data such as
-:
--Total Sales for each product category and What product is the highest selling? 
--what is the overall sales trend?
--number of sales transaction in each region, and what region has the highest sales?
--percentage of total sales by region?
+EDA involved the exploration of the data to answer some questions about the Data such as:
+ -  Total Sales for each product category and What product is the highest selling?
+ -  what is the overall sales trend?
+ -  number of sales transaction in each region, and what region has the highest sales?
+ -  percentage of total sales by region?
 
 
 ### DATA ANALYSIS- SQL
