@@ -1,30 +1,30 @@
 # LITA CAPSTONE  Salesdata REPORT
 
-## DESCRIPTION.
+### DESCRIPTION.
 
 THE DATASET CONTAINS RECORDS ON CAPSTONE SALES PERFORMANCE BY REGION, QUANTITY SOLD, UNIT COST, ORDERDATE AND PRODUCTS SOLD BETWEEN 2023-2024.
 
-## PROJECT OVERVIEW
+### PROJECT OVERVIEW
 
 This data Analysis project aims to give insights on the sales performance of the CAPSTONE DATASET AND THE SUBSCRIPTION DATASET project for a period of two years (2023-2004) . This analysis will help to make  data-driven decisions for  growth strategies.
 
-## SUMMARY
+### SUMMARY
 This is an exploration of the CAPSTONE sales dataset to uncover key insights such as top-selling products, motnly sales data and regional performance.
 
-## GOAL
+### GOAL
 The goal is to produce an interactive and understandable analysis for an informed growth strategy for the Capstone and Package subscription company.
 
-## DATA SOURCES
+### DATA SOURCES
 The primary source of Data used here is an Excel data file, CSV file.
 
-## TECHNOLGY USED
+### TECHNOLGY USED
 Excel sheet 
 excel SUM and AVERAGE functions 
 Excel pivot table 
 SQL SERVER (My SQL) 
 POWER BI
 
-## TOOLS USED
+### TOOLS USED
 Microsoft Excel (Download here)
 Data cleaning
 Data Visualization
@@ -34,16 +34,16 @@ SQL- (structured query language) for data querrying
 Github- for porfolio Building
 
 
-## SKILLS
+### SKILLS
 1.Data Analysis 2.Data Visualization 3.Data Cleaning 4.Data EXPLORATION
 
-## DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATION
 On the initial phase of Data cleaning and preparations, I performed the following action;
 Data loading and inspection
 Handling missing variables
 Data cleaning and formatting
 
-## EXPLORATORY DATA ANALYSIS
+### EXPLORATORY DATA ANALYSIS
 EDA involved the exploration of the data to answer some questions about the Data such as
 :
 -Total Sales for each product category and What product is the highest selling? 
@@ -52,7 +52,7 @@ EDA involved the exploration of the data to answer some questions about the Data
 -percentage of total sales by region?
 
 
-## DATA ANALYSIS- SQL
+### DATA ANALYSIS- SQL
 ---
 ## MY SQL QUERIES
 ### Total sales for each product category:
