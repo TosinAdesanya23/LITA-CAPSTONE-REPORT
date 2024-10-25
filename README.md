@@ -18,11 +18,11 @@ The goal is to produce an interactive and understandable analysis for an informe
 The primary source of Data used here is an Excel data file, CSV file.
 
 ### TECHNOLGY USED
-Excel sheet 
-excel SUM and AVERAGE functions 
-Excel pivot table 
-SQL SERVER (My SQL) 
-POWER BI
+- Excel sheet 
+- excel SUM and AVERAGE functions 
+- Excel pivot table 
+- SQL SERVER (My SQL) 
+- POWER BI
 
 ### TOOLS USED
 Microsoft Excel (Download here)
