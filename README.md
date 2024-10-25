@@ -32,3 +32,13 @@ SELECT product, SUM(quantity * unitprice) AS total_revenue
 FROM salesdata
 GROUP BY product;
 ```
+### Monthly sales total for the current year
+
+### Top 5 customers by total purchase amount
+```
+SELECT customerID, SUM(quantity * unitprice) AS total_purchase
+FROM salesdata
+GROUP BY customerID
+ORDER BY total_purchase DESC
+LIMIT 5;
+```
