@@ -35,7 +35,10 @@ Github- for porfolio Building
 
 
 ### SKILLS
-1.Data Analysis 2.Data Visualization 3.Data Cleaning 4.Data EXPLORATION
+1.Data Analysis 
+2.Data Visualization 
+3.Data Cleaning
+4.Data EXPLORATION
 
 ### DATA CLEANING AND PREPARATION
 On the initial phase of Data cleaning and preparations, I performed the following action;
