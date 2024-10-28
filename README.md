@@ -52,6 +52,7 @@ EDA involved the exploration of the data to answer some questions about the Data
  -  what is the overall sales trend?
  -  number of sales transaction in each region, and what region has the highest sales?
  -  percentage of total sales by region?
+![image](https://github.com/user-attachments/assets/bea8e389-16a7-4105-b4d9-73a3a9c8d689)
 
 
 ### DATA ANALYSIS- SQL
