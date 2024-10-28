@@ -63,6 +63,12 @@ EDA involved the exploration of the data to answer some questions about the Data
 
 ![image](https://github.com/user-attachments/assets/d001e637-58a4-4d7a-82a2-3ce2554f5435)
 
+
+Sum of Total Monthly sales year 2023 
+![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c)
+![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
+
+
 ### DATA ANALYSIS- SQL
 ---
 ## MY SQL QUERIES
