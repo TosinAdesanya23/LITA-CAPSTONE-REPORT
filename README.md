@@ -59,6 +59,10 @@ EDA involved the exploration of the data to answer some questions about the Data
 
 ![image](https://github.com/user-attachments/assets/53e6be32-66bd-4a32-aa38-cd52af0747f9)
 
+![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
+
+![image](https://github.com/user-attachments/assets/d001e637-58a4-4d7a-82a2-3ce2554f5435)
+
 ### DATA ANALYSIS- SQL
 ---
 ## MY SQL QUERIES
