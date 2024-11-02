@@ -132,3 +132,34 @@ HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 E
 
 ### DATA VISUALISATION- MICROSOFT POWER BI
 ![power bi assignment](https://github.com/user-attachments/assets/cdaf7a41-ca9e-4c93-881c-3539f5b65975)
+
+### Findings and Results
+
+Summary:
+
+Top Product: Shoes have emerged as the best-selling item.
+Regional Performance: The South region leads in total sales performance.
+
+### Recommendations
+Targeted Marketing Campaigns:
+
+- Optimize marketing expenditures by concentrating on high-revenue areas and promoting best-selling products.
+- Develop region-specific promotions, such as offering discounts in lower-performing areas to encourage sales growth.
+
+Product Strategy:
+- Increase inventory levels and enhance visibility for high-demand products.
+- Reassess pricing strategies for underperforming items to make them more appealing, or consider bundling them with popular products to drive sales.
+
+Seasonal Promotions:
+
+- Strategize targeted promotions and campaigns during identified peak sales months to maximize revenue opportunities.
+- Proactively plan for traditionally low-sales months by introducing new promotions or product bundles to stimulate consumer interest.
+
+Customer Retention Programs:
+
+- Identify and focus on top customers by implementing loyalty programs or exclusive offers to enhance engagement and boost their lifetime value.
+
+Pricing Adjustments:
+
+- Assess potential pricing adjustments for certain products to optimize profit margins without adversely affecting sales volume.
+- Introduce discounts or value packs for slower-moving items to accelerate their turnover rates.
