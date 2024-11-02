@@ -131,3 +131,4 @@ HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 E
 
 
 ### DATA VISUALISATION- MICROSOFT POWER BI
+![power bi assignment](https://github.com/user-attachments/assets/cdaf7a41-ca9e-4c93-881c-3539f5b65975)
