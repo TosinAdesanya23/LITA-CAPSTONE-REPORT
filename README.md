@@ -55,9 +55,11 @@ EDA involved the exploration of the data to answer some questions about the Data
 
 ### DATA ANALYSIS AND VISUALISATION - MS EXCEL 
 ![image](https://github.com/user-attachments/assets/bea8e389-16a7-4105-b4d9-73a3a9c8d689)
-- Shoes have been ranked with the highest sales at XXX, followed by 
+- See table below for details
 
 ![image](https://github.com/user-attachments/assets/53e6be32-66bd-4a32-aa38-cd52af0747f9)
+
+
 
 ![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
 
