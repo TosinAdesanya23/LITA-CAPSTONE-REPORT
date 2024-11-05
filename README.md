@@ -162,45 +162,14 @@ Pricing Adjustments:
 # PROJECT 2 - LITA-CAPSTONE---CUSTOMER-DATA--REPORT
 
 ### DESCRIPTION.
-#### THE DATASET CONTAINS RECORDS ON CAPSTONE SALES PERFORMANCE BY REGION, QUANTITY SOLD, UNIT COST, ORDERDATE AND PRODUCTS SOLD BETWEEN 2023-2024.
+#### THE DATASET CONTAINS RECORDS ON PACKAGE SUBSCRIPTION COMPANY PERFORMANCE BY CUSTOMER SERVICE ANS EXPERIENCE, RETENTION REGIONAL PERFORMANCE AND PRODUCT SUMMARY.
 
 ### PROJECT OVERVIEW
 
-This data Analysis project aims to give insights on the sales performance of the CAPSTONE DATASET AND THE SUBSCRIPTION DATASET project for a period of two years (2023-2004) . This analysis will help to make data-driven decisions for growth strategies.
+This data Analysis project aims to give insights on the customer and product performance of SUBSCRIPTION DATASET. This analysis will help to make data-driven decisions for growth strategies.
 
-### SUMMARY
-This is an exploration of the CAPSTONE sales dataset to uncover key insights such as top-selling products, motnly sales data and regional performance.
-
-### GOAL
-The goal is to produce an interactive and understandable analysis for an informed growth strategy for the Capstone and Package subscription company.
-
-### DATA SOURCES
-The primary source of Data used here is an Excel data file, CSV file.
-
-### TECHNOLGY USED
-- Excel sheet
-- excel SUM and AVERAGE functions
-- Excel pivot table
-- SQL SERVER (My SQL)
-- POWER BI
-  
 ### TOOLS USED
-- Microsoft Excel [(Download here)] https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBEP0vvfRZWVw60YwZD1uWkA?e=2UVmOq
-- Data cleaning
-- Data Visualization
-- Calcutions
-- Analysis
-- SQL- (structured query language) for data querrying
-- Github- for porfolio Building
-  
-### SKILLS
-- Data Cleaning
-- Data EXPLORATION
-- Data Analysis
-- Data Visualisation
-
-### DATA CLEANING AND PREPARATION
-On the initial phase of Data cleaning and preparations, I performed the following action; Data loading and inspection Handling missing variables Data cleaning and formatting
+- Microsoft Excel [(Download here)]https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBEP0vvfRZWVw60YwZD1uWkA?e=2UVmOq
 
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exploration of the data to answer some questions about the Data such as:
