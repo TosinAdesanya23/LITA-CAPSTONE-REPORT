@@ -48,23 +48,24 @@ EDA involved the exploration of the data to answer some questions about the Data
 ### DATA ANALYSIS AND VISUALISATION - MS EXCEL 
 
 ### Table 1: Best Selling Product
-From the visual above we can see the sales of shoes coming first place, above all other products.
+From the visuals below we can see the sales of shoes coming first place, above all other products.
+
 ![image](https://github.com/user-attachments/assets/bea8e389-16a7-4105-b4d9-73a3a9c8d689)
 ![image](https://github.com/user-attachments/assets/9395e029-2fd7-4a86-ae05-570e3c272565)
 
 
 
 
+### Table 2: Regional Performance
+South takes the lead with sales, this is a positivefeedbck. It also highlights areas that Capstone team will need to work on to bring about a national competitiveness.
 
 ![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
 ![image](https://github.com/user-attachments/assets/d001e637-58a4-4d7a-82a2-3ce2554f5435)
 
-### Table 2: Regional Performance
-South takes the lead with sales, this is a positivefeedbck. It also highlights areas that Capstone team will need to work on to bring about a national competitiveness.
-
-![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
-#### Table 4: Sum of Total Monthly sales year 2023
+#### Table 3: Sum of Total Monthly sales year 2023
 From the above graph we need to analyze the reasons behind the significant drop in sales from March onwards and then a spike again in X. It could be a seasonal issue, demand forecasting error, or other factors.
+![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
+
 
 
 ### DATA ANALYSIS- SQL
