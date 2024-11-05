@@ -162,14 +162,14 @@ Pricing Adjustments:
 # PROJECT 2 - LITA-CAPSTONE---CUSTOMER-DATA--REPORT
 
 ### DESCRIPTION.
-#### THE DATASET CONTAINS RECORDS ON PACKAGE SUBSCRIPTION COMPANY PERFORMANCE BY CUSTOMER SERVICE ANS EXPERIENCE, RETENTION REGIONAL PERFORMANCE AND PRODUCT SUMMARY.
+#### THE DATASET CONTAINS RECORDS ON PACKAGE SUBSCRIPTION COMPANY PERFORMANCE BY CUSTOMER BEHAVIOR EXPERIENCE, RETENTION REGIONAL PERFORMANCE AND PRODUCT SUMMARY.
 
 ### PROJECT OVERVIEW
 
 This data Analysis project aims to give insights on the customer and product performance of SUBSCRIPTION DATASET. This analysis will help to make data-driven decisions for growth strategies.
 
 ### TOOLS USED
-- Microsoft Excel [(Download here)]https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBEP0vvfRZWVw60YwZD1uWkA?e=2UVmOq
+- Microsoft Excel [(Download here)] https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBEP0vvfRZWVw60YwZD1uWkA?e=2UVmOq
 
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exploration of the data to answer some questions about the Data such as:
