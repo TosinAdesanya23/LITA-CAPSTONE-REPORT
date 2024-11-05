@@ -55,13 +55,14 @@ EDA involved the exploration of the data to answer some questions about the Data
 
 ### DATA ANALYSIS AND VISUALISATION - MS EXCEL 
 
-Table 1: 
+
 ![image](https://github.com/user-attachments/assets/bea8e389-16a7-4105-b4d9-73a3a9c8d689)
 ![image](https://github.com/user-attachments/assets/9395e029-2fd7-4a86-ae05-570e3c272565)
 
+### Table 1: Best Selling Product
+From the visual we can see the sales of shoes coming first place, above all other products.
 
 
-Table 2
 ![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
 
 
