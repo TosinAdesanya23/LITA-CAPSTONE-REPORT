@@ -1,4 +1,4 @@
-# LITA CAPSTONE REPORT
+# LITA CAPSTONE REPORT- PROJECT 1
 
 ### DESCRIPTION.
 
@@ -6,7 +6,7 @@
 
 ### PROJECT OVERVIEW
 
-This data Analysis project aims to give insights on the sales performance of the CAPSTONE DATASET AND THE SUBSCRIPTION DATASET project for a period of two years (2023-2004) . This analysis will help to make  data-driven decisions for  growth strategies.
+This data Analysis project aims to give insights on the sales performance of the CAPSTONE DATASET project for a period of two years (2023-2004) . This analysis will help to make  data-driven decisions for  growth strategies.
 
 ### SUMMARY
 This is an exploration of the CAPSTONE sales dataset to uncover key insights such as top-selling products, motnly sales data and regional performance.
@@ -72,7 +72,9 @@ Table 3:
 
 ![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
 #### Table 4: Sum of Total Monthly sales year 2023
- From the above graph we need to analyze the reasons behind the significant drop in sales from March onwards and then a spike again in X. It could be a seasonal issue, demand forecasting error, or other factors.
+From the above graph we need to analyze the reasons behind the significant drop in sales from March onwards and then a spike again in X. It could be a seasonal issue, demand forecasting error, or other factors.
+
+
 ### DATA ANALYSIS- SQL
 ---
 ## MY SQL QUERIES
@@ -135,7 +137,8 @@ HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 E
 
 ### DATA VISUALISATION- MICROSOFT POWER BI
 
-![new visual](https://github.com/user-attachments/assets/17e3063c-0d27-4251-9fc8-cd00f49a7120)
+![Uploading Sales performance dashboard.png…]()
+
 
 ### Findings and Results
 
