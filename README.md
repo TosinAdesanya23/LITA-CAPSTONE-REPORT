@@ -64,11 +64,11 @@ Table 1:
 Table 2
 ![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
 
-Table 3: 
+
 ![image](https://github.com/user-attachments/assets/d001e637-58a4-4d7a-82a2-3ce2554f5435)
 
-
-
+### Table 3: Regional Performance
+South takes the lead with sales, this is a positivefeedbck. It also highlights areas that Capstone team will need to work on to bring about a national competitiveness.
 
 ![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
 #### Table 4: Sum of Total Monthly sales year 2023
