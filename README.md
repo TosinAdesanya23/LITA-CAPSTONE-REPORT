@@ -219,9 +219,10 @@ EDA involved the exploration of the data to answer some questions about the Data
 4. **Average subscription duration:**
 
    ```sql
-   SELECT AVG(DATEDIFF(end_date, start_date)) AS avg_duration
-   FROM customers
-   WHERE end_date IS NOT NULL;
+   SELECT AVG(DATEDIFF(subscriptionend, subscriptionstart)) AS avg_duration
+   FROM customerdata
+   WHERE SubscriptionEnd IS NOT NULL;
+
    ```
 
 5. **Customers with subscriptions longer than 12 months:**
@@ -263,4 +264,9 @@ EDA involved the exploration of the data to answer some questions about the Data
 
 DATA VISUALISATION - POWER BI
 ![Customer data visualisation](https://github.com/user-attachments/assets/f5c31789-3946-457a-b343-8ffc3c74aaf5)
+
+RECOMMENDATIONS
+
+# CONCLUSION 
+The insights derived from these analyses empower us to significantly improve sales performance and optimize subscription services.
 
