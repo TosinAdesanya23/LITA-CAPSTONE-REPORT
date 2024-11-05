@@ -192,16 +192,16 @@ EDA involved the exploration of the data to answer some questions about the Data
 
    ```sql
    SELECT region, COUNT(*) AS total_customers
-   FROM customers
+   FROM customerdata
    GROUP BY region;
    ```
 
 2. **Most popular subscription type:**
 
    ```sql
-   SELECT subscription_type, COUNT(*) AS total_customers
-   FROM customers
-   GROUP BY subscription_type
+   SELECT subscriptiontype, COUNT(*) AS total_customers
+   FROM customerdata
+   GROUP BY subscriptiontype
    ORDER BY total_customers DESC
    LIMIT 1;
    ```
@@ -209,10 +209,11 @@ EDA involved the exploration of the data to answer some questions about the Data
 3. **Customers who canceled within 6 months:**
 
    ```sql
-   SELECT *
-   FROM customers
-   WHERE end_date IS NOT NULL
-   AND end_date BETWEEN CURDATE() - INTERVAL 6 MONTH AND CURDATE();
+    SELECT *
+   FROM customerdata
+   WHERE subscriptionend IS NOT NULL
+   AND subscriptionend BETWEEN CURDATE() - INTERVAL 6 MONTH AND CURDATE()
+
    ```
 
 4. **Average subscription duration:**
