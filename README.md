@@ -10,36 +10,27 @@
 This data Analysis project aims to give insights on the sales performance of the CAPSTONE DATASET project for a period of two years (2023-2004) . This analysis will help to make  data-driven decisions for  growth strategies.
 
 ### SUMMARY
-This is an exploration of the CAPSTONE sales dataset to uncover key insights such as top-selling products, motnly sales data and regional performance.
-
-### GOAL
-The goal is to produce an interactive and understandable analysis for an informed growth strategy for the Capstone and Package subscription company.
+This is an exploration of the CAPSTONE sales dataset to uncover key insights such as top-selling products, motnly sales data and regional performance. The goal is to produce an interactive and understandable analysis for an informed growth strategy for the Capstone company.
 
 ### DATA SOURCES
 The primary source of Data used here is an Excel data file, CSV file.
 
 ### TECHNOLGY USED
-- Excel sheet 
+- Excel sheet [(Download here)](https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBAgHEFp4YsnYEL4UoBZUCyA?e=hcSmcq)
 - excel SUM and AVERAGE functions 
 - Excel pivot table 
 - SQL SERVER (My SQL) 
 - POWER BI
-
-### TOOLS USED
-- Microsoft Excel [(Download here)](https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBAgHEFp4YsnYEL4UoBZUCyA?e=hcSmcq)
-- Data cleaning
-- Data Visualization
-- Calcutions
-- Analysis
-- SQL- (structured query language) for data querrying
-- Github- for porfolio Building
-
 
 ### SKILLS 
 1. Data Cleaning
 2. Data EXPLORATION
 3. Data Analysis
 4. Data Visualisation
+5. SQL- (structured query language) for data querrying
+6. Data Analysis Expressions DAX
+7. Microsoft Power BI
+8. Github- for porfolio Building
 
 ### DATA CLEANING AND PREPARATION
 On the initial phase of Data cleaning and preparations, I performed the following action;
@@ -49,27 +40,26 @@ Data cleaning and formatting
 
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exploration of the data to answer some questions about the Data such as:
- -  Total Sales for each product category and What product is the highest selling?
- -  what is the overall sales trend?
- -  number of sales transaction in each region, and what region has the highest sales?
- -  percentage of total sales by region?
+ -  Overall sales trend
+ -  Total Sales for each product category and product with highest sales
+ -  Regional analysis, including region with highest sales and percentage of total sales by 
+    region.
 
 ### DATA ANALYSIS AND VISUALISATION - MS EXCEL 
 
-
+### Table 1: Best Selling Product
+From the visual above we can see the sales of shoes coming first place, above all other products.
 ![image](https://github.com/user-attachments/assets/bea8e389-16a7-4105-b4d9-73a3a9c8d689)
 ![image](https://github.com/user-attachments/assets/9395e029-2fd7-4a86-ae05-570e3c272565)
 
-### Table 1: Best Selling Product
-From the visual we can see the sales of shoes coming first place, above all other products.
+
+
 
 
 ![image](https://github.com/user-attachments/assets/44c4da60-e0a9-4fac-8d9f-fba18bf7ceb7)
-
-
 ![image](https://github.com/user-attachments/assets/d001e637-58a4-4d7a-82a2-3ce2554f5435)
 
-### Table 3: Regional Performance
+### Table 2: Regional Performance
 South takes the lead with sales, this is a positivefeedbck. It also highlights areas that Capstone team will need to work on to bring about a national competitiveness.
 
 ![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
@@ -142,13 +132,6 @@ HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 E
 ![Uploading Sales performance dashboard.png…]()
 
 
-### Findings and Results
-
-Summary:
-
-Top Product: Shoes have emerged as the best-selling item.
-Regional Performance: The South region leads in total sales performance.
-
 ### Recommendations
 Targeted Marketing Campaigns:
 
@@ -175,9 +158,8 @@ Pricing Adjustments:
 
 
 
-# LITA-CAPSTONE---CUSTOMER-DATA--REPORT
+# PROJECT 2 - LITA-CAPSTONE---CUSTOMER-DATA--REPORT
 
-LITA CAPSTONE Customer  REPORT
 ### DESCRIPTION.
 #### THE DATASET CONTAINS RECORDS ON CAPSTONE SALES PERFORMANCE BY REGION, QUANTITY SOLD, UNIT COST, ORDERDATE AND PRODUCTS SOLD BETWEEN 2023-2024.
 
