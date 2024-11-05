@@ -64,9 +64,9 @@ South takes the lead with sales, this is a positivefeedbck. It also highlights a
 
 #### Table 3: Sum of Total Monthly sales year 2023
 From the above graph we need to analyze the reasons behind the significant drop in sales from March onwards and then a spike again in X. It could be a seasonal issue, demand forecasting error, or other factors.
-![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) ![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
 
-
+![image](https://github.com/user-attachments/assets/8b4e4419-aee3-40b1-9322-f929ec88951d)
+![image](https://github.com/user-attachments/assets/3f4f1dac-c332-4783-9156-cc2610c4899c) 
 
 ### DATA ANALYSIS- SQL
 ---
@@ -130,7 +130,7 @@ HAVING SUM(CASE WHEN orderdate >= DATE_SUB(CURDATE(), INTERVAL 3 MONTH) THEN 1 E
 
 ### DATA VISUALISATION- MICROSOFT POWER BI
 
-![Uploading Sales performance dashboard.png…]()
+![WhatsApp Image 2024-11-05 at 23 35 31_f28c6fb0](https://github.com/user-attachments/assets/b4a1e51c-69fb-4692-8b0f-844e43b23819)
 
 
 ### Recommendations
