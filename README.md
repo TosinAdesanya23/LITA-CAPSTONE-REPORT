@@ -262,14 +262,15 @@ EDA involved the exploration of the data to answer some questions about the Data
    FROM customerdata;
    ```
 
-DATA VISUALISATION - POWER BI
+### DATA VISUALISATION - POWER BI
 ![image](https://github.com/user-attachments/assets/baaf4ef3-91fa-4b4a-b378-a25e5066c793)
 
 
-RECOMMENDATIONS
+#### RECOMMENDATIONS
 Customer Preference Analysis: 
 - The popularity of Basic subscriptions suggests a preference for lower-cost options. Analyzing feedback on Premium and Standard plans could help make higher-tier plans more appealing.
+- Enhanced Cancellation Insights: Detailed cancellation data can be used for targeted outreach. Identifying groups with high cancellation rates allows for tailored campaigns to address specific needs.
   
-# CONCLUSION 
+## CONCLUSION 
 The insights derived from these analyses empower us to significantly improve sales performance and optimize subscription services.
 
