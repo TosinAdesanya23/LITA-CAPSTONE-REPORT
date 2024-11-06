@@ -263,7 +263,7 @@ EDA involved the exploration of the data to answer some questions about the Data
    ```
 
 DATA VISUALISATION - POWER BI
-![Customer analysis](https://github.com/user-attachments/assets/da55f820-b87f-49a2-95f3-cc3c0fc8851e)
+![image](https://github.com/user-attachments/assets/baaf4ef3-91fa-4b4a-b378-a25e5066c793)
 
 
 RECOMMENDATIONS
