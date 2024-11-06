@@ -228,7 +228,7 @@ EDA involved the exploration of the data to answer some questions about the Data
 5. **Customers with subscriptions longer than 12 months:**
 
    ```sql
- SELECT *
+   SELECT *
    FROM customerdata
    WHERE subscriptionend IS NOT NULL
    AND DATEDIFF(subscriptionend, subscriptionstart) > 365;
@@ -246,8 +246,8 @@ EDA involved the exploration of the data to answer some questions about the Data
 
    ```sql
    SELECT region, COUNT(*) AS total_cancellations
-   FROM customers
-   WHERE end_date IS NOT NULL
+   FROM customerdata
+   WHERE subscriptionend IS NOT NULL
    GROUP BY region
    ORDER BY total_cancellations DESC
    LIMIT 3;
@@ -257,9 +257,9 @@ EDA involved the exploration of the data to answer some questions about the Data
 
    ```sql
    SELECT
-       SUM(CASE WHEN end_date IS NULL THEN 1 ELSE 0 END) AS active_subscriptions,
-       SUM(CASE WHEN end_date IS NOT NULL THEN 1 ELSE 0 END) AS canceled_subscriptions
-   FROM customers;
+       SUM(CASE WHEN subscriptionend IS NULL THEN 1 ELSE 0 END) AS active_subscriptions,
+       SUM(CASE WHEN subscriptionend IS NOT NULL THEN 1 ELSE 0 END) AS canceled_subscriptions
+   FROM customerdata;
    ```
 
 DATA VISUALISATION - POWER BI
