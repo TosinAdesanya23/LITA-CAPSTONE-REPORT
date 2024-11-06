@@ -228,18 +228,18 @@ EDA involved the exploration of the data to answer some questions about the Data
 5. **Customers with subscriptions longer than 12 months:**
 
    ```sql
-   SELECT *
-   FROM customers
-   WHERE end_date IS NOT NULL
-   AND DATEDIFF(end_date, start_date) > 365;
+ SELECT *
+   FROM customerdata
+   WHERE subscriptionend IS NOT NULL
+   AND DATEDIFF(subscriptionend, subscriptionstart) > 365;
    ```
 
 6. **Total revenue by subscription type:**
 
    ```sql
-   SELECT subscription_type, SUM(revenue) AS total_revenue
-   FROM customers
-   GROUP BY subscription_type;
+   SELECT subscriptiontype, SUM(revenue) AS total_revenue
+   FROM customerdata
+   GROUP BY subscriptiontype;
    ```
 
 7. **Top 3 regions by subscription cancellations:**
@@ -263,7 +263,8 @@ EDA involved the exploration of the data to answer some questions about the Data
    ```
 
 DATA VISUALISATION - POWER BI
-![Customer data visualisation](https://github.com/user-attachments/assets/f5c31789-3946-457a-b343-8ffc3c74aaf5)
+![Customer analysis](https://github.com/user-attachments/assets/da55f820-b87f-49a2-95f3-cc3c0fc8851e)
+
 
 RECOMMENDATIONS
 
