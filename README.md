@@ -269,7 +269,9 @@ EDA involved the exploration of the data to answer some questions about the Data
 #### RECOMMENDATIONS
 Customer Preference Analysis: 
 - The popularity of Basic subscriptions suggests a preference for lower-cost options. Analyzing feedback on Premium and Standard plans could help make higher-tier plans more appealing.
-- Enhanced Cancellation Insights: Detailed cancellation data can be used for targeted outreach. Identifying groups with high cancellation rates allows for tailored campaigns to address specific needs.
+  
+Enhanced Cancellation Insights:
+- Detailed cancellation data can be used for targeted outreach. Identifying groups with high cancellation rates allows for tailored campaigns to address specific needs.
   
 ## CONCLUSION 
 The insights derived from these analyses empower us to significantly improve sales performance and optimize subscription services.
