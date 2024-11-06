@@ -267,7 +267,9 @@ DATA VISUALISATION - POWER BI
 
 
 RECOMMENDATIONS
-
+Customer Preference Analysis: 
+- The popularity of Basic subscriptions suggests a preference for lower-cost options. Analyzing feedback on Premium and Standard plans could help make higher-tier plans more appealing.
+  
 # CONCLUSION 
 The insights derived from these analyses empower us to significantly improve sales performance and optimize subscription services.
 
